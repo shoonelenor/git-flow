@@ -1,2 +1,2 @@
 this is project frame set up from slmo. 
-Project frame v2 created.
+This is version 1. 
